@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "http://ghost.diepeats.com",
+    "contentApiKey": "a223f8f3b281158b1e08203bfd"
+  },
+  "production": {
+    "apiUrl": "http://ghost.diepeats.com",
+    "contentApiKey": "a223f8f3b281158b1e08203bfd"
+  }
+}
